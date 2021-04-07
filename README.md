@@ -35,7 +35,7 @@ for /R %1 %%f in (*) do (
 - 若无法运行,请双击`重新编译JAVA.bat`
 - 可自行为两个bat文件生成快捷方式,改变快捷方式位置,图标等.
 ### License
-```java
+```
                 Copyright 2021 by acteds
 
    Licensed under the Apache License, Version 2.0 (the "License");
